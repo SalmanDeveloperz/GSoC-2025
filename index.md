@@ -10,7 +10,7 @@ Here I summarize my work, contributions, and outcomes.
 - **Contributor:** Muhammad Salman
  
 ## Weekly Progress
-  <!-- 👉 [Weekly Updates](./weekly-updates/)
+  👉 [Weekly Updates](./weekly-updates/)
 
 - [Community Bonding](./weekly-updates/community-bonding.md)
 - [Week 1](./weekly-updates/week1.md)
@@ -24,6 +24,4 @@ Here I summarize my work, contributions, and outcomes.
 - [Week 9](./weekly-updates/week9.md)
 - [Week 10](./weekly-updates/week10.md)
 - [Week 11](./weekly-updates/week11.md)
-- [Week 12](./weekly-updates/week12.md) -->
-
-{% include sidebar.html %}
+- [Week 12](./weekly-updates/week12.md)

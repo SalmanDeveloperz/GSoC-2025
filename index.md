@@ -25,3 +25,5 @@ Here I summarize my work, contributions, and outcomes.
 - [Week 10](./weekly-updates/week10.md)
 - [Week 11](./weekly-updates/week11.md)
 - [Week 12](./weekly-updates/week12.md)
+
+{% include sidebar.html %}

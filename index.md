@@ -12,7 +12,7 @@ Here I summarize my work, contributions, and outcomes.
 ## Weekly Progress
   👉 [Weekly Updates](./weekly-updates/)
 
-- [Community Bonding Period](./weekly-updates/community-bonding.md)
+- [Community Bonding](./weekly-updates/community-bonding.md)
 - [Week 1](./weekly-updates/week1.md)
 - [Week 2](./weekly-updates/week2.md)
 - [Week 3](./weekly-updates/week3.md)
@@ -25,4 +25,3 @@ Here I summarize my work, contributions, and outcomes.
 - [Week 10](./weekly-updates/week10.md)
 - [Week 11](./weekly-updates/week11.md)
 - [Week 12](./weekly-updates/week12.md)
-...

@@ -198,7 +198,7 @@ Throughout the 13 weeks of the GSoC period, I consistently created weekly docume
 
 I am deeply grateful to my mentors, [Avinal Kumar](https://github.com/avinal), [Shaheem Azmal M MD](https://github.com/shaheemazmalmmd) and [Gaurav Mishra](https://github.com/gmishx), for their guidance, patience, and technical insights throughout the GSoC period. Their feedback during weekly calls and community meetings was invaluable in navigating complex challenges. I also thank the FOSSology community for their support and suggestions, and Google Summer of Code for providing this incredible opportunity.
 
-![alt text](fossologyxGSoC.gif)
+![alt text](weekly-updates/fossologyxGSoC.gif)
 
 This GSoC journey has been a tremendous learning experience, enhancing my skills in Docker, Kubernetes, CMake and open-source collaboration. While the project is not fully complete, I am excited to continue contributing to FOSSology and driving the Microservices Infrastructure to a stable.
 

@@ -227,7 +227,7 @@ This GSoC journey has been a tremendous learning experience, enhancing my skills
 ---
 <h1 align = "center" id = "connections">Let's connect! </h1>
 
--   [Mail](chsalmanramzan422@gmail.com)
+-   [Mail](mailto:chsalmanramzan422@gmail.com)
 -   [LinkedIn](https://www.linkedin.com/in/msalman199/)
 -   [GitHub](https://github.com/SalmanDeveloperz)
 ---

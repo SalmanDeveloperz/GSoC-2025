@@ -1,4 +1,4 @@
-<h1 align="center">Google Summer of Code 2025 <img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50"></h1> 
+<h1 align="center"><b>Google Summer of Code 2025<b> <img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50"></h1> 
 
 ![ViewCount](https://views.whatilearened.today/views/github/SalmanDeveloperz/GSoC-2025.svg)
 ![GitHub](https://img.shields.io/github/followers/SalmanDeveloperz?style=social)
@@ -42,6 +42,7 @@ Hello World!, Welcome to my GSoC 2025 project report.
 - [Commits and Contributions](#commits-and-contributions)
 - [Acknowledgements](#acknowledgements)
 
+
 <h1 align = "center" id = "connections">About FOSSology </h1>
 
 FOSSology is an open-source compliance toolset that provides license and copyright
@@ -56,11 +57,13 @@ FOSSology helps organizations manage software license and copyright compliance. 
 flexibility and convenience, making it a powerful tool for software analysis and compliance
 management.
 
+
 <h1 align = "center" id = "connections">Project Overview </h1>
 
 The goal of my **Google Summer of Code 2025** project was to advance the **Microservices Infrastructure of FOSSology** by rebasing and enhancing Omar AbdelSamea’s prior  of **2021**, addressing issues in the Kubernetes-based deployment, transitioning the build system from Make to CMake and resolving critical blockers such as scheduler and database connectivity issues. The project aimed to deliver a functional, maintainable and scalable microservices setup for FOSSology, ensuring that all components (web, scheduler, database and agents) work seamlessly in a containerized environment.
 
 Throughout the 13-week period, I collaborated closely with mentors [Avinal Kumar](https://github.com/avinal), [Shaheem Azmal M MD](https://github.com/shaheemazmalmmd) and [Gaurav Mishra](https://github.com/gmishx), as well as the broader FOSSology community, to troubleshoot issues, refine configurations and document progress. While significant progress was made, certain challenges, particularly around the scheduler agent, remain unresolved and will require further effort beyond GSoC.
+
 
 <h1 align = "center" id = "connections">Project Goals </h1>
 
@@ -69,6 +72,7 @@ Throughout the 13-week period, I collaborated closely with mentors [Avinal Kumar
 - **Transition to CMake**: Migrate the build system from Make to CMake for better maintainability and scalability.
 - **Stabilize Scheduler Agent**: Ensure the scheduler pod, a critical component for coordinating agents, runs reliably.
 - **Document Progress and Issues**: Provide comprehensive documentation for the final evaluation, outlining accomplishments, challenges, and unresolved issues.
+
 
 <h1 align = "center" id = "connections">Work Accomplished </h1>
 
@@ -124,6 +128,7 @@ uccessfully built most components using CMake, except for the scheduler, which f
 
 ![Scheduler Partial Running Image 2](weekly-updates/webPod.png)
 
+
 <h1 align = "center" id = "connections">Challenges and Blockers </h1>
 
 ### Scheduler Instability
@@ -144,6 +149,7 @@ uccessfully built most components using CMake, except for the scheduler, which f
 - **Attempts to Resolve**: Updated `debian/changelog`, Dockerfiles and dependency lists; rolled back to `buster-slim` temporarily; synced `src/` folder with master branch changes.
 - **Status**: Most build issues resolved, but ongoing refinement of Dockerfiles is needed for long-term maintainability.
 
+
 <h1 align = "center" id = "connections">Unfulfilled Objectives </h1>
 
 - **Fully Functional Scheduler**: The scheduler pod is not fully stable, preventing dependent agents from operating reliably. A complete fix or rebuild is required.
@@ -152,6 +158,7 @@ uccessfully built most components using CMake, except for the scheduler, which f
 - **Full Agent Integration**: Agents like `cyclonedx`, `delagent`, `readmeoss`, and `scanoss` have Dockerfiles and Kubernetes configurations but lack full integration due to scheduler issues.
 - **Evaluation Metrics**: Lack of clarity on metrics (e.g., job queue performance, resource usage) for evaluating the scheduler in a containerized setup.
 
+
 <h1 align = "center" id = "connections">Future Work </h1>
 
 Although the GSoC 2025 period has concluded, I am committed to continuing my contributions to FOSSology. The following tasks are planned:
@@ -159,6 +166,7 @@ Although the GSoC 2025 period has concluded, I am committed to continuing my con
 - **Resolve Database Issues**: Address schema migration problems and ensure seamless connectivity between the web pod and database.
 - **Optimize Dockerfiles**: Simplify and streamline Dockerfiles for all components to improve build efficiency and maintainability.
 - **Collaborate with Community**: Work with mentors and contributors, including reaching out to Omar AbdelSamea, to align on solutions and incorporate past insights.
+
 
 <h1 align = "center" id = "connections">Commits and Contributions </h1>
 
@@ -183,12 +191,12 @@ Key commits made during GSoC 2025:
 
 All changes are pushed to my forked repository: [SalmanDeveloperz/fossology](https://github.com/SalmanDeveloperz/fossology).
 
-<h1 align = "center" id = "connections">Documentation </h1>
+
+<h1 align = "center" id = "connections">Documentation</h1>
 
 Throughout the 13 weeks of the GSoC period, I consistently created weekly documentation to track and record my progress. Week-wise documentation can be found in the following links:
 
 ## Weekly Progress
-  👉 [Weekly Updates](./weekly-updates/)
 
 - [Community Bonding](./weekly-updates/community-bonding.md)
 - [Week 1](./weekly-updates/week1.md)
@@ -205,6 +213,7 @@ Throughout the 13 weeks of the GSoC period, I consistently created weekly docume
 - [Week 12](./weekly-updates/week12.md)
 - [Week 13](./weekly-updates/week13.md)
 
+  👉 [Here are my project details and Updates on FOSSology gsoc Web](https://fossology.github.io/gsoc/docs/2025/microservices-infrastructure/)
 
 <h1 align = "center" id = "connections">Acknowledgements </h1>
 
@@ -216,6 +225,7 @@ This GSoC journey has been a tremendous learning experience, enhancing my skills
 
 
 ---
+
 <h1 align = "center" id = "connections">Let's connect! </h1>
 
 -   [Mail](chsalmanramzan422@gmail.com)

@@ -1,4 +1,4 @@
-<h1 align="center"><b>Google Summer of Code 2025<b> <img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50"></h1> 
+<h1 align="center">Google Summer of Code 2025 <img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50"></h1> 
 
 ![ViewCount](https://views.whatilearened.today/views/github/SalmanDeveloperz/GSoC-2025.svg)
 ![GitHub](https://img.shields.io/github/followers/SalmanDeveloperz?style=social)

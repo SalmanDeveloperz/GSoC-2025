@@ -225,13 +225,13 @@ This GSoC journey has been a tremendous learning experience, enhancing my skills
 
 
 ---
-
 <h1 align = "center" id = "connections">Let's connect! </h1>
 
 -   [Mail](chsalmanramzan422@gmail.com)
 -   [LinkedIn](https://www.linkedin.com/in/msalman199/)
 -   [GitHub](https://github.com/SalmanDeveloperz)
 ---
+
 <p align="center">
   <a href="https://github.com/SalmanDeveloperz">
     <img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Muhammad%20Salman-blue" />
